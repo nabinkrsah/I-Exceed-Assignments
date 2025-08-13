@@ -1,0 +1,1 @@
+Hello from Java! This is a sample text written to a file.
